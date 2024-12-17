@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+  <!-- Background color for the frame -->
+  <rect x="0" y="0" width="900" height="650" fill="#ecf0f1"/>
+
+  <!-- Paper Icon (Outline of a resume) -->
+  <rect x="200" y="50" width="500" height="550" rx="20" ry="20" fill="white" stroke="#bdc3c7" stroke-width="4"/>
+
+  <!-- Profile Photo Icon (Top-left corner) -->
+  <circle cx="240" cy="120" r="40" fill="#95a5a6" stroke="black" stroke-width="4"/>
+
+  <!-- Placeholder Lines for Text -->
+  <!-- A few horizontal lines to mimic content (just a simple look) -->
+  <line x1="320" y1="120" x2="680" y2="120" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="160" x2="680" y2="160" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="200" x2="680" y2="200" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="240" x2="680" y2="240" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="280" x2="680" y2="280" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="320" x2="680" y2="320" stroke="#bdc3c7" stroke-width="2"/>
+  
+  <!-- Simple lines to represent sections -->
+  <line x1="320" y1="360" x2="680" y2="360" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="400" x2="680" y2="400" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="440" x2="680" y2="440" stroke="#bdc3c7" stroke-width="2"/>
+  <line x1="320" y1="480" x2="680" y2="480" stroke="#bdc3c7" stroke-width="2"/>
+  
+  <!-- Iconic appearance of a resume -->
+  <rect x="0" y="0" width="900" height="650" fill="transparent" pointer-events="all" onclick="window.location.href='your-resume-link.html';"/>
+</svg>
